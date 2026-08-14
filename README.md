@@ -134,7 +134,9 @@ ORCID: [0009-0007-6335-2628](https://orcid.org/0009-0007-6335-2628) · [LinkedIn
 
 ## License
 
-*(Consider adding a license — MIT is a common, permissive choice for academic/portfolio code. Add a `LICENSE` file at the repo root once decided.)*
+## License
+
+This project is licensed under the BSD 3-Clause License — see the [LICENSE](LICENSE) file for details.
 
 
 142f47cf5dbc784b147b50b2a50372d0da23c997
