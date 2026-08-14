@@ -1,0 +1,32 @@
+{
+  "config": "Config A",
+  "levels": [
+    {
+      "name": "PE Register",
+      "KB": 1,
+      "count": 128,
+      "tech": "7nm [22]"
+    },
+    {
+      "name": "Tile Buffer",
+      "KB": 256,
+      "count": 16,
+      "tech": "7nm [22]"
+    },
+    {
+      "name": "Global Buffer",
+      "KB": 2048,
+      "count": 1,
+      "tech": "7nm [22]"
+    },
+    {
+      "name": "Off-chip",
+      "type": "HBM3E [26]",
+      "GB": 4
+    }
+  ],
+  "bert_mem": {
+    "weights_4bit_MB": 52.21,
+    "activation_MB": 9.0
+  }
+}

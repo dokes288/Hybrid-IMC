@@ -1,0 +1,12 @@
+{
+  "model_name": "bert-base-uncased",
+  "num_layers": 12,
+  "num_attention_heads": 12,
+  "hidden_size": 768,
+  "intermediate_size": 3072,
+  "vocab_size": 30522,
+  "max_position_embeddings": 512,
+  "total_parameters": 109482240,
+  "total_parameters_MB_FP32": 417.64,
+  "total_parameters_MB_4bit": 52.21
+}
