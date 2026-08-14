@@ -1,3 +1,4 @@
+HEAD
 # Hybrid-IMC
 
 **Hybrid In-Memory Computing Design Based on Data Movement for Transformer Inference Acceleration**
@@ -134,3 +135,6 @@ ORCID: [0009-0007-6335-2628](https://orcid.org/0009-0007-6335-2628) · [LinkedIn
 ## License
 
 *(Consider adding a license — MIT is a common, permissive choice for academic/portfolio code. Add a `LICENSE` file at the repo root once decided.)*
+
+
+142f47cf5dbc784b147b50b2a50372d0da23c997
